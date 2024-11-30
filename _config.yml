@@ -5,4 +5,6 @@ plugins:
 
 # customizations
 title: Rhyss Vivian's Blog
+description: Thoughts and adventures of a cloud network architect
 author: Rhyss Vivian
+show_downloads: false
